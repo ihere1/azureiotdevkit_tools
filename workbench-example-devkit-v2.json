@@ -29,6 +29,15 @@
             "difficulty": "medium"
         },
         {
+            "name": "DevKit Modbus",
+            "project_name": "devkit_modbus",
+            "description": "Implement a simple Modbus TCP client on DevKit and use an IoT Edge device as a gateway to send data to cloud.",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor",
+            "difficulty": "medium"
+        },
+        {
             "name": "Remote Monitoring",
             "project_name": "devkit_remotemonitoring",
             "description": "Send status of sensors on DevKit to Azure IoT Suite for monitoring.",
@@ -70,6 +79,15 @@
             "description": "Use magnetic sensor to detect the change of magnetic field, and send notifications.",
             "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
             "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-door-monitor-th.jpg",
+            "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor",
+            "difficulty": "medium"
+        },
+        {
+            "name": "DevKit DPS",
+            "project_name": "devkit_dps",
+            "description": "Send sensor data from DevKit to Azure IoTHub with Device Provisioning Service.",
+            "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
+            "image": "https://github.com/Microsoft/azure-iot-developer-kit/blob/pre-release/docs/assets/images/projects-dps-th.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor",
             "difficulty": "medium"
         }
