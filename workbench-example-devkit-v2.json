@@ -87,7 +87,7 @@
             "project_name": "devkit_dps",
             "description": "Send sensor data from DevKit to Azure IoTHub with Device Provisioning Service.",
             "url": "https://github.com/IoTDevEnvExamples/DevKitDoorMonitor/archive/master.zip",
-            "image": "https://github.com/Microsoft/azure-iot-developer-kit/blob/pre-release/docs/assets/images/projects-dps-th.jpg",
+            "image": "https://microsoft.github.io/azure-iot-developer-kit/assets/images/projects-dps-th.jpg",
             "tutorial": "https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-door-monitor",
             "difficulty": "medium"
         }
